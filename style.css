@@ -46,6 +46,7 @@ img {
     width: auto;
     height: 480px;
     flex: 1;
+    max-height: 550px;
 }
 
 .img-link {
